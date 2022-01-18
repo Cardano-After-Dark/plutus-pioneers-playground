@@ -45,6 +45,7 @@ Canvas is where all course materials will be aggregated. Use this https://iohk.u
 
 * https://canvas.instructure.com/
 
+image::resources/canvas-webapp-dashboard.png[]
 
 === 3. Cardano Stack Exchange
 

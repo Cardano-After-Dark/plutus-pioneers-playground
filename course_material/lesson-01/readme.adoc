@@ -1,0 +1,18 @@
+== Lesson 01
+
+All the details are reported https://canvas.instructure.com/courses/4089198/pages/eutxo-and-english-auction[here]
+
+Below, you see references and details which we find interesting
+
+* https://www.youtube.com/watch?v=X80uNXenWF4&list=PLNEK_Ejlx3x2nLM4fAck2JS6KhFQlXq2N[Youtube Playlist] for Lesson 01
+
+== Summary
+
+First lesson 
+
+* Introduces the UTXO model (bitcoin) the Accounting model (Ethereum) and the eUTXO model (Cardano). 
+* Dive deeper in the eUTXO model 
+* How to build the example code 
+* Modeling Auction contracts in the eUTXO model
+* Auction contract on the playground
+* Homework
