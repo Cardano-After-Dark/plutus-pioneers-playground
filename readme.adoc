@@ -1,0 +1,6 @@
+= Plutus Pioneers Playground
+
+This repository contains our experiments while following the plutus pioneer program, currently in the third cohort.
+
+This readme is written with https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[asciidoc], which can also coexist with https://www.markdownguide.org/cheat-sheet/[markdown] documents.
+
