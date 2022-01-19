@@ -30,3 +30,4 @@ So assume Alice has 100 ADA and want to send 10 to Bob. She cannot send only 10 
 
 image::../resources/first-example-simple-UTXO.png[]
 
+Lars (Q&A) : All the EUTXO come from a previous transaction

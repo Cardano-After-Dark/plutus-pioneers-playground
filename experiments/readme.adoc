@@ -1,0 +1,5 @@
+= Experiments
+
+This folder should contain a number of subfolders, where each team member can put his/her code, experiements, and other material in order to learn and share.
+
+Just make sure your folder name can be associated to yourself
