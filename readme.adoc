@@ -1,15 +1,13 @@
 = Plutus Pioneers Playground
 
-This repository contains our notes and experiments while following the plutus pioneer program, currently in the third cohort.
+Notes and experiments for the plutus pioneer program, third cohort.
 
-The idea is to have a group of study related to Cardano After Dark, such that we can collaborate, experiment and write documents together in an async fashion. 
+Tied to the study group related to Cardano After Dark, for tracking learning, experimenting, collaborating together in an async fashion. 
 
 Continue to 
 
-* link:course_material[]
-* ink:experiments[]
+* link:course[]
+* link:experiments[]
 
-== Note
-
-This readme is written with https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[asciidoc], which can also coexist with https://www.markdownguide.org/cheat-sheet/[markdown] documents.
+*Note*: readme written with https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[asciidoc]. It can  coexist with https://www.markdownguide.org/cheat-sheet/[markdown] documents.
 

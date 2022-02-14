@@ -4,7 +4,7 @@
 
 == Pre-reading
 
-Some prior knowledge of Haskell or functional programming is advisable for this course, and we suggest that newcomers to Haskell read the https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed&id=b696ee9e9e&e=1a9685e45f[Learn You a Haskell guide in preparation].
+Some prior knowledge of Haskell or functional programming is advisable for this course, and we suggest that newcomers to Haskell read https://freecomputerbooks.com/Learn-You-a-Haskell-for-Great-Good.html[Learn You a Haskell guide in preparation].
 
 == Course Topics
 

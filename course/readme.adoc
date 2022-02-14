@@ -1,0 +1,6 @@
+= PPP #3
+
+Plutus Pioneers Program #3rd Cohort
+
+Main material here: https://github.com/input-output-hk/plutus-pioneer-program
+If you miss some information, we took notes in link:course-material[]
