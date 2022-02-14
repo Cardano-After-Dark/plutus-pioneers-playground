@@ -43,7 +43,7 @@ If you missed the boat or just want to dabble, the https://github.com/input-outp
 
 In the IOG technical community Discord server, you will have a place to discuss the course and its materials with fellow Pioneers:
 
-* Join the discord server using this https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed&id=46c99986ab&e=1a9685e45f[invitation link]. You will have to complete verification.
+* Join the discord server using this https://discord.com/invite/WmSVtQ5PjZ[invitation link]. You will have to complete verification.
 * Once that is finished, add yourself to the Pioneers Third Cohort by using the green check react https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed&id=8491b2183c&e=1a9685e45f[here].
 
 
@@ -59,11 +59,11 @@ image::resources/canvas-webapp-dashboard.png[]
 
 We encourage pioneers to use Cardano Stack Exchange (CSE) to post questions and record solutions.  
 
-* If you don't already have one, make yourself a CSE account (https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed&id=5d8a060ebe&e=1a9685e45f[sign up]).
-* Bookmark the https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed&id=f202a2841b&e=1a9685e45f[Plutus Pioneers tag], where all pioneer-related CSE questions are aggregated.
+* If you don't already have one, make yourself a CSE account (https://cardano.stackexchange.com/[sign up]).
+* Bookmark (_Watch_) the https://cardano.stackexchange.com/questions/tagged/plutus-pioneer-program[Plutus Pioneers tag], where all pioneer-related CSE questions are aggregated.
 Once you begin contributing to CSE, you will earn reputation and editorial powers to further curate knowledge about Cardano. 
 
 
 === 4. Github
 
-The Plutus Pioneers github https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed&id=14b675aea0&e=1a9685e45f[repository] is where the actual Plutus code for each module will reside. 
+The Plutus Pioneers github https://github.com/input-output-hk/plutus-pioneer-program[repository] is where the actual Plutus code for each module will reside. 
